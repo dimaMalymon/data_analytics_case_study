@@ -41,11 +41,18 @@ This case study was completed using:
 
 ## 📁 Repository Contents
 
-- `docs/cyclistic_case_study.md`  
+- `How members vs. casuals ride differently.pptx`  
   Full written documentation of Case Study #1.
 
-- `docs/case_study_roadmap.md`  
+- `Case Study 1_roadmap.pdf`  
   Framework and structure used across all case studies.
 
-- `slides/cyclistic_case_study_presentation.pdf`  
+- `How members vs. casuals ride differently.pptx`  
   Final presentation for stakeholders.
+
+  > **Note:** The original Cyclistic/Divvy trip data is not included in this repository due to size and licensing.  
+> Instructions in the documentation explain how to reproduce the analysis using the public dataset.
+
+---
+
+More case studies will be added to this repository using different technologies, while keeping the same analytical depth and transparency.
